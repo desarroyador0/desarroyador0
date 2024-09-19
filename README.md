@@ -1,4 +1,5 @@
 ## Hi there 👋
+soy Juan Pablo Landa estudiante de ciencias de la computacion tengo 20 años y esta es mi cuenta de github
 
 <!--
 **desarroyador0/desarroyador0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
